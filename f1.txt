@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 fajl 1 kreiran za clone PROMENA LOKALNO
+=======
+fajl 1 kreiran za clone
+
+iZMENE NA f1
+>>>>>>> 46061141e782ca293c2c8556e5d931c8a9f9071a
