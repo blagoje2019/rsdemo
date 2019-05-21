@@ -3,5 +3,9 @@ fajl 1 kreiran za clone PROMENA LOKALNO
 =======
 fajl 1 kreiran za clone
 
+<<<<<<< HEAD
 iZMENE NA f1
 >>>>>>> 46061141e782ca293c2c8556e5d931c8a9f9071a
+=======
+iZMENE NA f1 - izmene drugi put
+>>>>>>> 0e6157fad31e8a308545b6ae5986a95b74279aa4
